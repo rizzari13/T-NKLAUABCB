@@ -1,0 +1,391 @@
+{
+	"Version" : "1.0.0",
+	"_Profiles" : 
+	[
+		{
+			"Profile" : "DVB",
+			"_ChannelTypes" : 
+			[
+				{
+					"ChannelType" : "IP",
+					"_AD_Types" : 
+					[
+						{
+							"AD_Type" : "Digital",
+							"_Channels" : 
+							[
+								{
+									"CH_ID" : "IP:D:N_0:0:DVB",
+									"PTC" : 0,
+									"_Services" : 
+									[
+										{
+											"DRM" : "",
+											"MajorNr" : 1,
+											"Name" : "Marriott Bonvoy",
+											"SRV_ID" : "1",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.43:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 2,
+											"Name" : "Four Points Pontianak",
+											"SRV_ID" : "2",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.44:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 3,
+											"Name" : "Hotel Info",
+											"SRV_ID" : "3",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.45:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 4,
+											"Name" : "AL JAZEERA ENGLISH",
+											"SRV_ID" : "4",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.3:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 5,
+											"Name" : "DW",
+											"SRV_ID" : "5",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.14:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 6,
+											"Name" : "BLOOMBERG",
+											"SRV_ID" : "6",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.10:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 7,
+											"Name" : "CHANNEL NEWS ASIA",
+											"SRV_ID" : "7",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.12:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 8,
+											"Name" : "ARIRANG TV",
+											"SRV_ID" : "8",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.5:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 9,
+											"Name" : "NHK WORLD JAPAN",
+											"SRV_ID" : "9",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.22:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 10,
+											"Name" : "FOX NEWS",
+											"SRV_ID" : "10",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.15:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 11,
+											"Name" : "BEIN SPORTS 1 HD",
+											"SRV_ID" : "11",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.7:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 12,
+											"Name" : "BEIN SPORTS 2 HD",
+											"SRV_ID" : "12",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.8:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 13,
+											"Name" : "BEIN SPORTS 3 HD",
+											"SRV_ID" : "13",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.9:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 14,
+											"Name" : "AXN HD",
+											"SRV_ID" : "14",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.2:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 15,
+											"Name" : "CINEEDGE",
+											"SRV_ID" : "15",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.13:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 16,
+											"Name" : "CELESTIAL MOVIES HD",
+											"SRV_ID" : "16",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.11:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 17,
+											"Name" : "TVN MOVIES HD",
+											"SRV_ID" : "17",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.27:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 18,
+											"Name" : "MUSIC TV",
+											"SRV_ID" : "18",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.21:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 19,
+											"Name" : "GALAXY PREMIUM",
+											"SRV_ID" : "19",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.16:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 20,
+											"Name" : "GALAXY",
+											"SRV_ID" : "20",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.17:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 21,
+											"Name" : "ORIGINALS HD",
+											"SRV_ID" : "21",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.25:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 22,
+											"Name" : "STUDIO UNIVERSAL HD",
+											"SRV_ID" : "22",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.26:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 23,
+											"Name" : "BBC EARTH HD",
+											"SRV_ID" : "23",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.6:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 24,
+											"Name" : "LOVE NATURE HD",
+											"SRV_ID" : "24",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.20:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 25,
+											"Name" : "HISTORY",
+											"SRV_ID" : "25",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.18:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 26,
+											"Name" : "LIFE TIME",
+											"SRV_ID" : "26",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.19:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 27,
+											"Name" : "NICK JR",
+											"SRV_ID" : "27",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.23:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 28,
+											"Name" : "NICKELODEON HD",
+											"SRV_ID" : "28",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.24:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 29,
+											"Name" : "ANIMAX",
+											"SRV_ID" : "29",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.4:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 30,
+											"Name" : "ABC AUSTRALIA",
+											"SRV_ID" : "30",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.1:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 31,
+											"Name" : "ANTV",
+											"SRV_ID" : "31",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.28:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 32,
+											"Name" : "INDOSIAR",
+											"SRV_ID" : "32",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.29:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 33,
+											"Name" : "KOMPAS TV",
+											"SRV_ID" : "33",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.30:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 34,
+											"Name" : "LIFE",
+											"SRV_ID" : "34",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.31:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 35,
+											"Name" : "MD TV",
+											"SRV_ID" : "35",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.32:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 36,
+											"Name" : "METRO TV",
+											"SRV_ID" : "36",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.33:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 37,
+											"Name" : "RCTI HD",
+											"SRV_ID" : "37",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.34:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 38,
+											"Name" : "GTV HD",
+											"SRV_ID" : "38",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.35:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 39,
+											"Name" : "MNCTV HD",
+											"SRV_ID" : "39",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.36:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 40,
+											"Name" : "INEWS TV HD",
+											"SRV_ID" : "40",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.37:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 41,
+											"Name" : "IDX CHANNEL HD",
+											"SRV_ID" : "41",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.38:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 42,
+											"Name" : "SCTV",
+											"SRV_ID" : "42",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.39:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 43,
+											"Name" : "TV ONE",
+											"SRV_ID" : "43",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.40:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 44,
+											"Name" : "TRANS 7",
+											"SRV_ID" : "44",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.41:5000"
+										},
+										{
+											"DRM" : "",
+											"MajorNr" : 45,
+											"Name" : "TRANS TV",
+											"SRV_ID" : "45",
+											"ServiceType" : 65535,
+											"Url" : "udp://239.1.0.42:5000"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

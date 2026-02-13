@@ -1,0 +1,164 @@
+{
+   "db/ephotel/hotelmenu/appid" : {
+      "string" : ""
+   },
+   "db/ephotel/hotelmenu/device_vlanid" : {
+      "int" : 1
+   },
+   "db/ephotel/hotelmenu/hms_serverurl" : {
+      "string" : ""
+   },
+   "db/ephotel/hotelmenu/hotelid" : {
+      "string" : ""
+   },
+   "db/ephotel/hotelmenu/reach_ipsetting" : {
+      "string" : ""
+   },
+   "db/ephotel/hotelmenu/serverurl" : {
+      "string" : ""
+   },
+   "db/ephotel/hotelmenu/solution_vlanid" : {
+      "int" : 1
+   },
+   "db/ephotel/hotelmenu/welcomemessage" : {
+      "string" : "WELCOME"
+   },
+   "db/ephotel/securitymode/changepin" : {
+      "string" : "23&6&118&102&23&6&118&102&"
+   },
+   "db/ephotel/welmsg/welcomemsgbody" : {
+      "string" : "TV_SID_LOGO_HOTEL_EDELIGHTED_SELECTED_HOTEL"
+   },
+   "db/ephotel/welmsg/welcomemsgtitle" : {
+      "string" : "TV_SID_LOGO_HOTEL_WELCOME_GEUST"
+   },
+   "db/epmenu/system/Alarm/Mode" : {
+      "int" : 0
+   },
+   "db/epmenu/system/Alarm/Time" : {
+      "string" : "00:00"
+   },
+   "db/epmenu/system/Alarm/Tone" : {
+      "int" : 1
+   },
+   "db/epmenu/system/Alarm/Volume" : {
+      "int" : 15
+   },
+   "db/home/url_launcher/AppID" : {
+      "string" : ""
+   },
+   "db/home/url_launcher/change_url" : {
+      "string" : ""
+   },
+   "db/homesettings/URLLauncher/AppTitle" : {
+      "string" : ""
+   },
+   "db/homesettings/URLLauncher/TimeOutSettings" : {
+      "int" : 30
+   },
+   "db/hotel/dooreye" : {
+      "bool" : 0
+   },
+   "db/menu/network/server_network_settings/ProxyAddress" : {
+      "string" : "http://:@0.0.0.0:0"
+   },
+   "db/menu/network/server_network_settings/ProxyOn" : {
+      "bool" : 0
+   },
+   "db/menu/system/hdmicec/on_off" : {
+      "int" : 1
+   },
+   "db/menu/system/time/ntp/ntp_mode" : {
+      "int" : 1
+   },
+   "db/menu/system/time/ntp/server_url" : {
+      "string" : ""
+   },
+   "db/menu/system/time/ntp/timezone" : {
+      "int" : 0
+   },
+   "db/menu/system/time/offtimer1/manual" : {
+      "int" : 0
+   },
+   "db/menu/system/time/offtimer1/setup" : {
+      "string" : "SID_OFF"
+   },
+   "db/menu/system/time/offtimer1/time" : {
+      "string" : "00:00"
+   },
+   "db/menu/system/time/offtimer1/timer_id" : {
+      "int" : 0
+   },
+   "db/menu/system/time/offtimer2/manual" : {
+      "int" : 0
+   },
+   "db/menu/system/time/offtimer2/setup" : {
+      "string" : "SID_OFF"
+   },
+   "db/menu/system/time/offtimer2/time" : {
+      "string" : "00:00"
+   },
+   "db/menu/system/time/offtimer2/timer_id" : {
+      "int" : 0
+   },
+   "db/menu/system/time/offtimer3/manual" : {
+      "int" : 0
+   },
+   "db/menu/system/time/offtimer3/setup" : {
+      "string" : "SID_OFF"
+   },
+   "db/menu/system/time/offtimer3/time" : {
+      "string" : "00:00"
+   },
+   "db/menu/system/time/offtimer3/timer_id" : {
+      "int" : 0
+   },
+   "db/menu/system/time/ontimer1/manual" : {
+      "int" : 0
+   },
+   "db/menu/system/time/ontimer1/setup" : {
+      "string" : "SID_OFF"
+   },
+   "db/menu/system/time/ontimer1/time" : {
+      "string" : "00:00"
+   },
+   "db/menu/system/time/ontimer1/timer_id" : {
+      "int" : 0
+   },
+   "db/menu/system/time/ontimer2/manual" : {
+      "int" : 0
+   },
+   "db/menu/system/time/ontimer2/setup" : {
+      "string" : "SID_OFF"
+   },
+   "db/menu/system/time/ontimer2/time" : {
+      "string" : "00:00"
+   },
+   "db/menu/system/time/ontimer2/timer_id" : {
+      "int" : 0
+   },
+   "db/menu/system/time/ontimer3/manual" : {
+      "int" : 0
+   },
+   "db/menu/system/time/ontimer3/setup" : {
+      "string" : "SID_OFF"
+   },
+   "db/menu/system/time/ontimer3/time" : {
+      "string" : "00:00"
+   },
+   "db/menu/system/time/ontimer3/timer_id" : {
+      "int" : 0
+   },
+   "db/sdk/develop/ip" : {
+      "string" : "0.0.0.0"
+   },
+   "db/sdk/develop/mode" : {
+      "int" : 0
+   },
+   "db/source-list/source-name" : {
+      "string" : "[]"
+   },
+   "file/private/sound/feature/SpeakerSelection" : {
+      "int" : 0
+   }
+}

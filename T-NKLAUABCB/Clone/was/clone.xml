@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<widget id="3201808016724" name="Mono Mat" orderType="defaultapp" Index="200" version="1.6.60" lock="false" hidden="true" installedDate="" runTitle="" size="14954306" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.artpaint-tpl/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3201808016724/</icon>
+</widget>
+<widget id="3202006020928" name="Forest" orderType="defaultapp" Index="201" version="1.0.21" lock="false" hidden="true" installedDate="" runTitle="" size="17139967" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.cinemagraph-forest/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202006020928/</icon>
+</widget>
+<widget id="3202006020931" name="Cozy Room" orderType="defaultapp" Index="202" version="1.0.21" lock="false" hidden="true" installedDate="" runTitle="" size="4242734" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.cinemagraph-relaxation/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202006020931/</icon>
+</widget>
+<widget id="3202006020932" name="Rainy Day" orderType="defaultapp" Index="203" version="1.0.21" lock="false" hidden="true" installedDate="" runTitle="" size="8545721" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.cinemagraph-rainyDay/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202006020932/</icon>
+</widget>
+<widget id="3202006020946" name="Fireplace" orderType="defaultapp" Index="204" version="1.0.21" lock="false" hidden="true" installedDate="" runTitle="" size="5521014" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.cinemagraph-firePlace/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202006020946/</icon>
+</widget>
+<widget id="3202006020962" name="Dynamic Filter" orderType="defaultapp" Index="205" version="1.0.43" lock="false" hidden="true" installedDate="" runTitle="" size="41745644" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.DynamicFilter/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3202006020962/</icon>
+</widget>
+<widget id="3201711015274" name="Board" orderType="defaultapp" Index="206" version="1.7.3" lock="false" hidden="true" installedDate="1970-01-01 00:03:06" runTitle="" size="12723127" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.photo-tpl/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3201711015274/</icon>
+</widget>
+<widget id="3201712015407" name="Mono" orderType="defaultapp" Index="207" version="2.3.4" lock="false" hidden="true" installedDate="1970-01-01 00:03:08" runTitle="" size="5384921" network="false" usbApp="false">
+<featured system = "default"></featured>
+<installedPath>/opt/usr/home/owner/apps_rw/com.samsung.tv.photoblueline1-tpl/</installedPath>
+<icon>/opt/share/webappservice/apps_icon/all/3201712015407/</icon>
+</widget>
+</list>
